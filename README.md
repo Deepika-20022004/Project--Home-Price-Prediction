@@ -29,10 +29,10 @@ A full-stack machine learning project to predict real estate prices in Bengaluru
 
 ### 1. Clone the Repository
 ```
-git clone <repo-url>
+git clone https://github.com/Deepika-20022004/Project--Home-Price-Prediction.git
 ```
 ```
-cd <repo-folder>
+cd "Project--Home-Price-Prediction"
 ```
 
 ### 2. Set Up Python Environment
