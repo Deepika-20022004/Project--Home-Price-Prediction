@@ -1,0 +1,23 @@
+# Ignore data and model files
+/model/bhp.csv
+/model/banglore_home_prices_model.pickle
+/model/columns.json
+
+# Ignore server artifacts and cache
+/server/__pycache__/
+/server/artifacts/banglore_home_prices_model.pickle
+/server/artifacts/columns.json
+
+# Ignore virtual environment
+/venv/
+
+# Ignore documentation steps file
+steps.md
+
+# Ignore Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
